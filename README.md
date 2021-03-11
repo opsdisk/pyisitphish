@@ -27,7 +27,7 @@ cp secrets_empty.json secrets.json
 {
     "isitphish": {
         "host": "api.isitphish.com",
-        "token": "1234...abcd",
+        "token": "1234...abcd"
     }
 }
 ```
@@ -55,7 +55,7 @@ iip_client.retrieve_url_score("https://phishbarrel.com")
 secrets_dict = {
     "isitphish": {
         "host": "api.isitphish.com",
-        "token": "1234...abcd",
+        "token": "1234...abcd"
     }
 }
 
