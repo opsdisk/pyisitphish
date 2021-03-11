@@ -1,0 +1,5 @@
+# requests
+requests==2.25.1
+
+# Useful for requests debugging.
+requests-toolbelt==0.9.1
