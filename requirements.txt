@@ -1,5 +1,5 @@
 # requests
-requests==2.25.1
+requests==2.34.2
 
 # Useful for requests debugging.
-requests-toolbelt==0.9.1
+requests-toolbelt==1.0.0
